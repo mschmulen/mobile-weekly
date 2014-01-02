@@ -1,6 +1,6 @@
 **DRAFT**
 
-Mobile News Round-up Issue #1 – January 2, 2013
+Mobile News Round-up Issue #8 – January 2, 2013
 ---
 
 Welcome to our latest mobile summary of the week, covering December 25 through to January 1. Every week this time we will look at mobile software stack news, tutorials and commentaries we’ve seen online.
@@ -15,12 +15,8 @@ Eric Schmidt predictions for 2014 may not be exciting news for many.  Confirming
 
 Google is to shut down smartphone file-sharing app Bump at the end of the month. Google acquired Bump just for months ago for an estimated $30m.  Users will be able to Export their existing data prior to the January 31 removal from the App stores.
 
-####[YACK YACK )](http://www.strongloop.com)
 
-YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK K YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK 
-
-
-##Developer Reading & Code
+##Developer Reading, Code & Tutorials
 
 ####[How we do mobile engineering at Venmo](http://chris.cm/how-we-do-mobile-engineering-at-venmo/)
 
@@ -30,9 +26,6 @@ iOS Lead [@chrismaddern](https://twitter.com/chrismaddern) outlines how Venom ap
 
 Avoid these all to common mobile websites deign flaws, and ensure that your user experience delights instead of frustrates mobile users.
 
-####[YACK YACK )](http://www.strongloop.com)
-
-YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YAACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK 
 
 ##Mobile Platforms, Vendors and Manufacturers
 
@@ -40,13 +33,9 @@ YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK 
 
 [John Gruber](https://twitter.com/daringfireball) gives his 2013 review of Apple tech.
 
-####[Android Studio Released](http://tools.android.com/recent/androidstudio040released)
+####[Android Studio 0.4.0 Released](http://tools.android.com/recent/androidstudio040released)
 
 Android Studio team closes out the year with improvements to Gradle, migration support for legacy Eclipse (ADT) projects, and Asset Studio wizard.
-
-####[YACK YACK )](http://www.strongloop.com)
-
-YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK YACK 
 
 
 ####What’s next?
