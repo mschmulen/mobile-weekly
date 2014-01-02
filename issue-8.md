@@ -9,7 +9,7 @@ Welcome to our latest mobile summary of the week, covering December 25 through t
 
 ####[Eric Schmidt makes 2014 predictions, says mobile has won]( http://www.theverge.com/2013/12/30/5256248/eric-schmidt-says-mobile-has-won-2014-predictions)
 
-Eric Schmidt predictions for 2014: "Everyone is going to have a smartphone," predicts Schmidt. "The trend has been mobile was winning; it's now won," he proclaims, before noting the trend towards more tablets and phones being sold than PCs. "arrival of big data and machine intelligence everywhere". genetics.
+Eric Schmidt predictions for 2014 may not be exciting news for many.  Confirming ubiquity of mobile and the trending growth of tablets.
 
 ####[Google Shuts Down Bump After Buying It For At Least $30 Million](http://www.businessinsider.com/google-shuts-down-bump-2014-1)
 
