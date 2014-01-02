@@ -46,10 +46,3 @@ Android Studio team closes out the year with improvements to Gradle, migration s
 
 ---
 
-Links:
-
-- yack
-- yack
-- yack 
-- yack
-
