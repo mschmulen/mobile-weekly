@@ -27,6 +27,10 @@ iOS Lead [@chrismaddern](https://twitter.com/chrismaddern) outlines how Venom ap
 Avoid these all to common mobile websites deign flaws, and ensure that your user experience delights instead of frustrates mobile users.
 
 
+####[Slow android emulator](http://stackoverflow.com/questions/1554099/slow-android-emulator/13856866#13856866)
+
+Start the year off right by speeding up your Android emulator configuration with this Stack Overflow thread.
+
 ##Mobile Platforms, Vendors and Manufacturers
 
 ####[2013: The Year in Apple and Technology at Large](http://daringfireball.net/2013/12/the_year_in_apple_and_technology)
