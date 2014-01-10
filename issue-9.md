@@ -1,6 +1,6 @@
 **DRAFT**
 
-Mobile News Round-up Issue #9 – January 9, 2013
+Mobile News Round-up Issue #9 – January 9, 2014
 ---
 
 Welcome to our latest mobile summary of the week, covering December 25 through to January 1. Every week this time we will look at mobile software stack news, tutorials and commentaries we’ve seen online.
