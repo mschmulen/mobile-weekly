@@ -20,6 +20,7 @@ Wolfram gets into the Internet of things with Connected Devices Project. The pro
 Will the founders that turned down a $3 billion offer from Facebook become two of the youngest billionaires, or walk away with nothing but a story.
 
 ####[Gartner Says Worldwide Traditional PC, Tablet, Ultramobile and Mobile Phone Shipments On Pace to Grow 7.6 Percent in 2014](http://www.gartner.com/newsroom/id/2645115)
+
 Gartner Goes bullish on Android predicting shipments to top 1.1 billion in 2014.
 
 ##Developer Reading, Code & Tutorials
@@ -27,7 +28,7 @@ Gartner Goes bullish on Android predicting shipments to top 1.1 billion in 2014.
 ####[Android SDK Released - Accept Bitcoin Payment In Your Own Android App](http://thenextweb.com/insider/2014/01/10/coinbase-releases-an-sdk-to-enable-bitcoin-payments-in-android-apps)
 Bitcoin and BitMoney make it simple for Android developers to accept Bitcoin in their Android app.  The SDK is only available on Android and is unlikely to see iOS since Apple pulled Coinbase from iTunes last year.  You can download the SDK from the [coinbase github repo](https://github.com/coinbase/coinbase-android-sdk).
 
-####[http://www.frida.re/](Frida, Inject JavaScript to explore native  iOS apps)
+####[Frida, Inject JavaScript to explore native  iOS apps]( http://www.frida.re/)
 Frida launches its dynamic code instrumentation toolkit that lets you inject JavaScript into native apps on several platforms.  The native ‘Greasemonkey' approach allows developer to introspect into native apps without recompiling the application or having access to the source code.
 
 ##Mobile Platforms, Vendors and Manufacturers
